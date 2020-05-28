@@ -1,7 +1,5 @@
----
-title: "Getting & Cleaning Data Course Project README"
-output: html_document
----
+
+# Getting & Cleaning Data Course Project README
 
 ## Project Goal
 
